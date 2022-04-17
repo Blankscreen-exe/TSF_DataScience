@@ -18,7 +18,7 @@ This repo contains all of my [The Sparks Foundation Internship](https://internsh
     - Perform EDA on a Global Terrorism dataset
     - As a security/defense analyst, try to find the hot zones for terrorism
     - Determine the security issues and insights from the data
-- [ ] **Exploraroty Data Analysis: Sports**
+- [x] **Exploraroty Data Analysis: Sports**
     - Perform EDA on a Indian Premier League dataset
     - As a sports analyst, find out the most successful teams, players and factors contributiong win/loss for a team
 - [ ] **Prediction: Using Decision Tree**
