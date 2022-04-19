@@ -21,7 +21,7 @@ This repo contains all of my [The Sparks Foundation Internship](https://internsh
 - [x] **Exploraroty Data Analysis: Sports**
     - Perform EDA on a Indian Premier League dataset
     - As a sports analyst, find out the most successful teams, players and factors contributiong win/loss for a team
-- [ ] **Prediction: Using Decision Tree**
+- [x] **Prediction: Using Decision Tree**
     - Create a Decision Tree Classifier
     - Visualize the classifier
     - Use Iris dataset for this job
